@@ -1,0 +1,30 @@
+.hr {
+	width: 112px;
+	border: 2px solid #ece0ecb3;
+	position: center;
+	margin: -7px auto 20px;
+}
+.about-contain i{
+	font-size: 40px;
+}
+.geting{
+	background: url(../images/1.JPG);
+	height: 250px;
+	background-size: cover;
+	position: relative;
+}
+.getting-ovelay{
+position: absolute;
+width: 100%;
+height: 100%;
+background:rgb(245, 245, 245, .3);
+}
+.banner-section{
+	background: url(../images/bn.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 260px;
+}
+.what-do img{
+	margin-top: -80px;
+}
